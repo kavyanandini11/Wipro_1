@@ -1,0 +1,5 @@
+John works at Wipro
+Mary works at Infosys
+John works at Wipro
+Peter works at Wipro
+Mary works at TCS

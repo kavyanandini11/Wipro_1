@@ -1,0 +1,3 @@
+This is the source file for the File Copy assignment.
+It contains a few lines of text.
+The program copies this content into a destination file.

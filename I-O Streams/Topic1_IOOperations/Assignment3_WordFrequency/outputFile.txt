@@ -1,0 +1,8 @@
+Infosys : 1
+John : 2
+Mary : 2
+Peter : 1
+TCS : 1
+Wipro : 3
+at : 5
+works : 5

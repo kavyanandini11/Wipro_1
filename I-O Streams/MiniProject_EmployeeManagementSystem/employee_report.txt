@@ -1,0 +1,7 @@
+EMPLOYEE REPORT
+===============
+ID: 101  | Name: Ananya       | Dept: Development  | Salary: Rs.55000.00
+ID: 102  | Name: Bharath      | Dept: Testing      | Salary: Rs.48000.00
+ID: 103  | Name: Chetan       | Dept: Finance      | Salary: Rs.62000.00
+---------------
+Total salary payout: Rs.165000.00
